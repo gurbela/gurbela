@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurbela&show_icons=true&locale=en" alt="gurbela" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurbela&show_icons=true&locale=en&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="gurbela" />
 </p>
