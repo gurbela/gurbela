@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%F0%9F%91%8B,%20I%27m%20Levan&fontSize=70" />
   <h3 align="center">Mobile App developer from Georgia, Tbilisi.</h3>
 </p>
 
