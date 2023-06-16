@@ -23,7 +23,4 @@
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurbela@gmail.com" />
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurbela&show_icons=true&locale=en&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="gurbela" />
-</p>
+ 
